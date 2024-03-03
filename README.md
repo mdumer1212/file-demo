@@ -1,3 +1,3 @@
-# file-demo
-this is my first github file
+# my file-demo
+this is my first github file.
 Auther: Farooq zakir
